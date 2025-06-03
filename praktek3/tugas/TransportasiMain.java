@@ -6,5 +6,11 @@ public class TransportasiMain {
 
         motor.nyalakan();
         motor.belok("kiri");
+
+        // SepedaMotor motor2 = new SepedaMotor("Hayabusa");
+
+        // motor2.nyalakan();
+        // motor2.belok("kanan");
     }
+
 }
